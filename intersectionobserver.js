@@ -86,7 +86,7 @@ function twitchCardAnimation() {
     setTimeout(() => {
         firstLayer.classList.add('card-animation');
         secondLayer.classList.add('card-animation');
-    }, 1);
+    }, 2);
 }
 
 function numberCountUp(entry, speed, delay) {
